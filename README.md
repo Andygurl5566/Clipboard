@@ -1,22 +1,22 @@
 # Clipboard
 
-A short beginner automation project I'm building out using Python.
+A short beginner automation project built using Python.
 
 
 
-Dependencies
-pip
-pip install clipboard
+Dependencies:
+- pip
+- pip install clipboard
 
 
-To run the program
-python3 <file-location>
-python3 clipboardproj.py <command>
+To run the program :
+- python3 <file-location>
+- python3 clipboardproj.py <command>
 
 
 
-Program Commands
-save
-print
-list
+Program Commands :
+- save
+- print
+- list
 
