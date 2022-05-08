@@ -9,14 +9,16 @@ Dependencies:
 - pip install clipboard
 
 
-To run the program :
-- python3 <file-location>
-- python3 clipboardproj.py <command>
+Running Clipboard : To run this program, you can either press the green arrow in your ide or run the following text in your terminal.
+- python3 clipboardproj.py [ command here ]
 
 
 
-Program Commands :
+Program Commands : You can run the following commands in conjunction with the command above 
 - save
 - print
 - list
 
+Program Command Examples:
+- python3 clipboardproj.py save
+- python3 clipboardproj.py list
